@@ -59,7 +59,7 @@ var Profile = {
                 <i data-lucide="download" class="w-5 h-5"></i> Install Aplikasi
             </button>
 
-            <a href="https://whatsapp.com/channel/0029VbCsS2r2phHIV3O0nO1a" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center flex items-center justify-center gap-2">
+            <a href="https://whatsapp.com/channel/0029VbCK0KDKmCPWFYFyO730" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center flex items-center justify-center gap-2">
                 <i data-lucide="message-circle" class="w-5 h-5"></i> Gabung Channel WhatsApp
             </a>
         </div>`;
